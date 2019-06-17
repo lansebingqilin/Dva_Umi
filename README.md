@@ -10,9 +10,11 @@
 ![](https://github.com/lansebingqilin/Dva_Umi/raw/master/img03.png)  
 
 # 安装
-
-`yarn or npm i`
+```javascript
+yarn or npm i
+```
 
 # 打包
-
-`npm run build`
+```javascript
+npm run build
+```
