@@ -10,7 +10,7 @@
 ![](https://github.com/lansebingqilin/Dva_Umi/raw/master/img03.png)  
 
 # 安装
-```react
+```javascript
 yarn or npm i
 ```
 
